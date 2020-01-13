@@ -1,0 +1,2 @@
+com.tuya.smart.mqttclient.mqttv3.internal.SSLNetworkModuleFactory
+com.tuya.smart.mqttclient.mqttv3.internal.TCPNetworkModuleFactory
